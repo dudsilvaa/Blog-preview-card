@@ -1,0 +1,52 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: hsl(47, 88%, 63%);
+}
+
+.box {
+    padding: 30px;
+    margin: 20px;
+    margin-left: 490px;
+    margin-top: 80px;
+    background-color: hsl(0, 0%, 100%);
+    width: 380px;
+    height: 490px;
+    border-radius: 20px;
+    border: 2px solid rgb(0, 0, 0);
+    box-shadow: 10px 10px #000000
+}
+
+#ilustracao { 
+    width: 337px;
+    height: 190px;
+    margin-left: -11px;
+    margin-top: -15px;
+    border-radius: 12px;
+}
+
+.learning {
+    margin-top: 20px;
+}
+
+.learning p {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+h1:hover {
+    color: hsl(47, 88%, 63%);
+    cursor: pointer;
+}
+
+.avatar {
+    width: 33px;
+    height: 33px;
+    margin-top: 15px;
+    margin-left: -10px;
+}
