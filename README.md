@@ -4,12 +4,12 @@ Esta é uma solução para o [Desafio Blog preview card em Frontend Mentor](http
 
 ## Índice
 
-- [Visão geral](#visão geral)
+- [Visão geral](#visão-geral)
    - [O desafio](#o-desafio)
-   - [Captura de tela](#captura de tela)
+   - [Captura de tela](#captura-de-tela)
    - [Links](#links)
 - [Meu processo](#meu-processo)
-   - [Construído com](#construído com)
+   - [Construído com](#construído-com)
 - [Autor](#autor)
 
 ## Visão geral
