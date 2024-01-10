@@ -20,9 +20,9 @@ O objetivo desse desafio é construir este cartão de visualização de um blog 
 
 ### Captura de tela
 
-![Captura de tela](https://github.com/dudsilvaa/Blog-preview-card/assets/138947434/5e667daf-2222-4ddf-a48b-656fc85356a7)
+![Captura de tela](./screenshot.png)
 
-###Links
+### Links
 
 - URL da solução: [Solução](https://www.frontendmentor.io/solutions/blog-preview-card-Idc5xAS6gL)
 
