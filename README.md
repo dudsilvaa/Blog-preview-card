@@ -24,7 +24,7 @@ O objetivo desse desafio é construir este cartão de visualização de um blog 
 
 ###Links
 
-- URL da solução: ()
+- URL da solução: [Solução](https://www.frontendmentor.io/solutions/blog-preview-card-Idc5xAS6gL)
 
 ## Meu processo
 
